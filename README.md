@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hamza Mohamed Farag
+# 👋 Hi, I'm Hamza Mohamed
 🚀 Front-End Developer | Angular Specialist | MEARN Stack Enthusiast
 
 I’m a Front-End Developer with over 2 years of professional experience specializing in **Angular** and the **MEARN stack** (MongoDB, Express.js, Angular, React, Node.js). Passionate about building scalable, responsive, and user-friendly web applications, I focus on clean code, performance optimization, and intuitive UI/UX. With experience at Mophx, Dgytos, and as an instructor at ITI, I thrive on solving complex challenges and mentoring aspiring developers.
