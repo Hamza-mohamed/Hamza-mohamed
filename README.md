@@ -1,4 +1,4 @@
-# Hi, I'm Hamza Mohamed Farag 👋
+# Hi, I'm Hamza Mohamed  👋
 
 ### Frontend Developer → Full-Stack Developer
 
