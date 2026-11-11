@@ -8,8 +8,8 @@
 
 **I build fast, secure, and scalable web applications, from pixel-perfect UI to authenticated, API-driven products in production, and I'm growing into full-stack development.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-mohamed-588838175/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzamohamed20201@gmail.com)
+<a href="https://www.linkedin.com/in/hamza-mohamed-588838175/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:hamzamohamed20201@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 ![Location](https://img.shields.io/badge/Based_in-Egypt-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Open to work](https://img.shields.io/badge/Open_to-Opportunities-8A2BE2?style=for-the-badge)
 
@@ -87,20 +87,20 @@
 
 | Project | What it is | My contribution | Live |
 |---------|-----------|-----------------|------|
-| **Dhabk** | Gold investment platform | Dynamic pricing, secure transactions, auth flows & session handling | [dhabk.com](https://dhabk.com/) · [Demo](https://modev23.com/dhabk/) |
-| **SaudiPetChem** | Petrochemical products platform | Angular build with product listing, filtering & multilingual support | [saudipetchem.com](https://saudipetchem.com/) |
-| **Qrtably** | Multi-tenant restaurant platform | Scalable multi-tenant system with customizable restaurant sites, API & auth | [qrtably.com](https://www.qrtably.com/) |
-| **Moaafa** | Emergency services platform | Responsive, fast UI with real-time request flows for critical scenarios | [moaafa.com](https://moaafa.com/) |
-| **Pets Point** | Online pet store | E-commerce catalog, checkout, order management & secure user workflows | [petspointeg.com](https://petspointeg.com/) |
-| **Shoura Online** | Egypt's first online agrochemicals store | UI enhancements to search & account flows across 400+ products | [shouraonline.com](https://shouraonline.com/) |
-| **YESOOH** | Advertising campaign platform | Interfaces to manage and track campaigns, responsive & usable | [yes-ooh.co](https://www.yes-ooh.co/) |
-| **OneChemic** | Corporate website | Built with Next.js, JavaScript & Bootstrap | [onechemic.com](https://onechemic.com/en) |
-| **Al Reda Sealants** | Corporate website | Layout improvements, UI fixes & cross-device optimization | [alredasealants.com](https://alredasealants.com/) |
+| **Dhabk** | Gold investment platform | Dynamic pricing, secure transactions, auth flows & session handling | <a href="https://dhabk.com/" target="_blank" rel="noopener noreferrer">dhabk.com</a> · <a href="https://modev23.com/dhabk/" target="_blank" rel="noopener noreferrer">Demo</a> |
+| **SaudiPetChem** | Petrochemical products platform | Angular build with product listing, filtering & multilingual support | <a href="https://saudipetchem.com/" target="_blank" rel="noopener noreferrer">saudipetchem.com</a> |
+| **Qrtably** | Multi-tenant restaurant platform | Scalable multi-tenant system with customizable restaurant sites, API & auth | <a href="https://www.qrtably.com/" target="_blank" rel="noopener noreferrer">qrtably.com</a> |
+| **Moaafa** | Emergency services platform | Responsive, fast UI with real-time request flows for critical scenarios | <a href="https://moaafa.com/" target="_blank" rel="noopener noreferrer">moaafa.com</a> |
+| **Pets Point** | Online pet store | E-commerce catalog, checkout, order management & secure user workflows | <a href="https://petspointeg.com/" target="_blank" rel="noopener noreferrer">petspointeg.com</a> |
+| **Shoura Online** | Egypt's first online agrochemicals store | UI enhancements to search & account flows across 400+ products | <a href="https://shouraonline.com/" target="_blank" rel="noopener noreferrer">shouraonline.com</a> |
+| **YESOOH** | Advertising campaign platform | Interfaces to manage and track campaigns, responsive & usable | <a href="https://www.yes-ooh.co/" target="_blank" rel="noopener noreferrer">yes-ooh.co</a> |
+| **OneChemic** | Corporate website | Built with Next.js, JavaScript & Bootstrap | <a href="https://onechemic.com/en" target="_blank" rel="noopener noreferrer">onechemic.com</a> |
+| **Al Reda Sealants** | Corporate website | Layout improvements, UI fixes & cross-device optimization | <a href="https://alredasealants.com/" target="_blank" rel="noopener noreferrer">alredasealants.com</a> |
 
 ### 📂 Open-Source Projects
 
-- **[Amazon Clone (React)](https://github.com/Hamza-mohamed/Amazon_clone_ReactJS)** · [Live Demo](https://amazon-clone-react-js-jade.vercel.app): full e-commerce site and management system built with React Hooks & Context API (ITI graduation project)
-- **[Amazon Admin Dashboard (Angular)](https://github.com/Hamza-mohamed/AmazonClone_dashboard_AngularJS)**: admin panel to manage products, track orders, and view customer details
+- **<a href="https://github.com/Hamza-mohamed/Amazon_clone_ReactJS" target="_blank" rel="noopener noreferrer">Amazon Clone (React)</a>** · <a href="https://amazon-clone-react-js-jade.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>: full e-commerce site and management system built with React Hooks & Context API (ITI graduation project)
+- **<a href="https://github.com/Hamza-mohamed/AmazonClone_dashboard_AngularJS" target="_blank" rel="noopener noreferrer">Amazon Admin Dashboard (Angular)</a>**: admin panel to manage products, track orders, and view customer details
 - **Amazon API (Node.js)**: REST API with JWT auth, secure login/registration, RBAC for users & admins, and middleware-protected endpoints
 
 ---
@@ -129,6 +129,6 @@
 ### 🤝 Let's work together
 
 I'm open to **Frontend-focused Full-Stack / Angular / React** roles and freelance projects.
-The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/hamza-mohamed-588838175/) or [email](mailto:hamzamohamed20201@gmail.com).
+The fastest way to reach me is <a href="https://www.linkedin.com/in/hamza-mohamed-588838175/" target="_blank" rel="noopener noreferrer">LinkedIn</a> or [email](mailto:hamzamohamed20201@gmail.com).
 
 </div>
